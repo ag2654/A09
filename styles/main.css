@@ -67,6 +67,7 @@ header img {
 	background-color: #800000;
 	color: #ffffff;
 	font-weight: bold;
+	display: block;
 }
 
 #nav_menu ul ul {
